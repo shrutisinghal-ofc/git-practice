@@ -1,2 +1,3 @@
 Hello GitHub
 My name is shruti Singhal.
+I am Learning Git branching.
